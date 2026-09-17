@@ -1,5 +1,5 @@
 def hesap_makinesi():
-    print("--- Hesap Makinesi ---")
+    print("---deneme hesap makinesi---")
     print("İşlemler: + (Toplama), - (Çıkarma), * (Çarpma), / (Bölme)")
     print("Çıkış yapmak için 'q' tuşuna basabilirsiniz.")
 
